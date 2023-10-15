@@ -108,5 +108,6 @@ require("flash").jump({
  {'sindrets/diffview.nvim'},
  {'tpope/vim-fugitive'},
  {'rbong/vim-flog'},
- {'ggandor/leap.nvim'}
+ {'ggandor/leap.nvim'},
+ {'mg979/vim-visual-multi'}
 });
