@@ -110,9 +110,4 @@ require("flash").jump({
  {'rbong/vim-flog'},
  {'ggandor/leap.nvim'},
  {'mg979/vim-visual-multi'},
- {
-        'barrett-ruth/live-server.nvim',
-        build = 'npm install --global live-server',
-        config = true
-    }
 });
